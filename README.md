@@ -1,2 +1,2 @@
 # chessboard-cover
-棋盘覆盖可视化，分步实现，HSV色彩空间
+Step by step Chessboard-cover visualization in HSV color space.
